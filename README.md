@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/kk240/Order-Summury-card
+- Live Site URL: https://kk240.github.io/Order-Summury-card/
 
 ### Built with
 
